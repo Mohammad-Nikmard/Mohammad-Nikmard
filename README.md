@@ -36,6 +36,3 @@ Map<String, dynamic> mohammad = {
 
 ## 📜 My Status
 ![](https://github-readme-stats.vercel.app/api?username=Mohammad-Nikmard&show_icons=true&theme=dracula)
-
-## ✍️ Dev Quote
-![The best code is the one that makes you feel you’ve written it before.](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight) 
